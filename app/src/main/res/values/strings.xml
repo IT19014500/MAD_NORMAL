@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="msg1">SIGN IN</string>
+    <string name="msg2">REGISTER</string>
+    <string name="msg3">CANCEL</string>
+    <string name="msg4">HELLO</string>
+    <string name="msg5">JAYAMADHUKA</string>
+</resources>
